@@ -1,0 +1,8 @@
+assembly.c
+c.c
+HelloWorld.c
+program1_1.c
+stdoutRedir.c
+test.c
+.DS_Store
+*/*/.DS_Store
